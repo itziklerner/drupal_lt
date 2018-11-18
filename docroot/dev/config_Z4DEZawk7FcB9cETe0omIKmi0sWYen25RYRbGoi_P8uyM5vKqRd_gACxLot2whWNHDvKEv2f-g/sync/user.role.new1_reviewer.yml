@@ -1,0 +1,19 @@
+uuid: 43286066-c57a-4a13-867b-1995a004ca41
+langcode: en
+status: true
+dependencies: {  }
+id: new1_reviewer
+label: 'new1 reviewer'
+weight: 8
+is_admin: false
+permissions:
+  - 'access content overview'
+  - 'access toolbar'
+  - 'delete any new1 content'
+  - 'edit any new1 content'
+  - 'use editorial transition archive'
+  - 'use editorial transition publish'
+  - 'use editorial transition review'
+  - 'use moderation sidebar'
+  - 'view any unpublished content'
+  - 'view latest version'

@@ -1,0 +1,29 @@
+uuid: fcfb4949-b506-4066-9f59-190652fd9c81
+langcode: en
+status: true
+dependencies: {  }
+id: new1_creator
+label: 'new1 creator'
+weight: 7
+is_admin: false
+permissions:
+  - 'access contextual links'
+  - 'access image_browser entity browser pages'
+  - 'access in-place editing'
+  - 'access media_browser entity browser pages'
+  - 'access panels in-place editing'
+  - 'access toolbar'
+  - 'administer panelizer node new1 content'
+  - 'administer panelizer node new1 layout'
+  - 'change layouts in place editing'
+  - 'create new1 content'
+  - 'create url aliases'
+  - 'edit own new1 content'
+  - 'use editorial transition create_new_draft'
+  - 'use editorial transition review'
+  - 'use moderation sidebar'
+  - 'use text format rich_text'
+  - 'view any unpublished content'
+  - 'view latest version'
+  - 'view new1 revisions'
+  - 'view own unpublished content'

@@ -769,9 +769,9 @@ $settings['entity_update_batch_size'] = 50;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'sites/default/files/.sqlite',
+  'database' => 'dev/sqlite/.sqlite',
   'prefix' => '',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\sqlite',
   'driver' => 'sqlite',
 );
-$config_directories['sync'] = 'sites/default/files/config_Z4DEZawk7FcB9cETe0omIKmi0sWYen25RYRbGoi_P8uyM5vKqRd_gACxLot2whWNHDvKEv2f-g/sync';
+$config_directories['sync'] = 'dev/config_Z4DEZawk7FcB9cETe0omIKmi0sWYen25RYRbGoi_P8uyM5vKqRd_gACxLot2whWNHDvKEv2f-g/sync';
