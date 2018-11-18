@@ -1,0 +1,14 @@
+uuid: 8767cdce-5d1b-44f0-bc7b-ce734fe257fb
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.maestro_example
+  module:
+    - user
+id: user_add_role_action.maestro_example
+label: 'Add the Maestro Example role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: maestro_example

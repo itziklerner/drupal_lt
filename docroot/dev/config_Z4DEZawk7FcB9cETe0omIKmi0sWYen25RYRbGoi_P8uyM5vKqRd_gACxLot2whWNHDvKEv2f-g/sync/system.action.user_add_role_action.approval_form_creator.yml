@@ -1,0 +1,14 @@
+uuid: 8d1e948c-1bdd-42d3-ba1f-5c5c2fcf458c
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.approval_form_creator
+  module:
+    - user
+id: user_add_role_action.approval_form_creator
+label: 'Add the Approval Form creator role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: approval_form_creator

@@ -39,9 +39,11 @@ field_settings:
         anonymous: anonymous
       view_mode:
         'entity:node':
+          approval_form: default
           landing_page: full
           new1: default
           page: default
+          webform: default
   status:
     label: null
     datasource_id: 'entity:node'

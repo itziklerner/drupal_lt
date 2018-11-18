@@ -1,0 +1,19 @@
+uuid: d88b40b5-3625-4dd5-ba0c-e46fd2d5a028
+langcode: en
+status: true
+dependencies: {  }
+id: approval_form_reviewer
+label: 'Approval Form reviewer'
+weight: 12
+is_admin: false
+permissions:
+  - 'access content overview'
+  - 'access toolbar'
+  - 'delete any approval_form content'
+  - 'edit any approval_form content'
+  - 'use editorial transition archive'
+  - 'use editorial transition publish'
+  - 'use editorial transition review'
+  - 'use moderation sidebar'
+  - 'view any unpublished content'
+  - 'view latest version'

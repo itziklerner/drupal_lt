@@ -1,0 +1,29 @@
+uuid: 76cb57c7-5d03-426e-b5a3-7d0ccfd3bb45
+langcode: en
+status: true
+dependencies: {  }
+id: approval_form_creator
+label: 'Approval Form creator'
+weight: 11
+is_admin: false
+permissions:
+  - 'access contextual links'
+  - 'access image_browser entity browser pages'
+  - 'access in-place editing'
+  - 'access media_browser entity browser pages'
+  - 'access panels in-place editing'
+  - 'access toolbar'
+  - 'administer panelizer node approval_form content'
+  - 'administer panelizer node approval_form layout'
+  - 'change layouts in place editing'
+  - 'create approval_form content'
+  - 'create url aliases'
+  - 'edit own approval_form content'
+  - 'use editorial transition create_new_draft'
+  - 'use editorial transition review'
+  - 'use moderation sidebar'
+  - 'use text format rich_text'
+  - 'view any unpublished content'
+  - 'view approval_form revisions'
+  - 'view latest version'
+  - 'view own unpublished content'

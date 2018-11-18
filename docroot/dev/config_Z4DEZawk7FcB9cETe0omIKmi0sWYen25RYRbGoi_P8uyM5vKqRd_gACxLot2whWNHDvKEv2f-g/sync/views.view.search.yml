@@ -77,9 +77,11 @@ display:
         options:
           view_modes:
             'entity:node':
+              approval_form: default
               landing_page: teaser
               new1: default
               page: teaser
+              webform: default
       fields:
         rendered:
           table: search_api_index_content

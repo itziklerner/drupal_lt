@@ -1,0 +1,15 @@
+uuid: 9a107ea9-1366-4919-9d20-ab4728220bee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hQvlXNIpnj-YWTfnb0J9ePr8Gj799Wribz7b-TJV13o
+id: maestro_example
+label: 'Maestro Example'
+weight: 3
+is_admin: null
+permissions:
+  - 'create approval_form content'
+  - 'edit any approval_form content'
+  - 'edit own approval_form content'
+  - 'start maestro process'
